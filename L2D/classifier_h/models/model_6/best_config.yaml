@@ -1,0 +1,11 @@
+- N_trial: 247
+  enable_bundle: true
+  init_score: 1.9822249318751255
+  learning_rate: 0.6444638876258902
+  ll: 0.5435035183388556
+  max_depth: 2
+  min_child_samples: 30
+  n_estimators: 227
+  num_leaves: 956
+  reg_alpha: 1.8090730038245515
+  reg_lambda: 1.033465774127781

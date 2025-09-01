@@ -1,0 +1,40 @@
+params:
+  batch_size:
+    log: true
+    range:
+    - 10
+    - 128
+  dropout_rate:
+    range:
+    - 0.0
+    - 0.5
+  hidden_layer_sizes:
+    range:
+    - - 200
+      - 50
+    - - 128
+      - 50
+    - - 128
+      - 20
+    - - 128
+      - 128
+      - 50
+    - - 128
+      - 128
+      - 20
+  learning_rate:
+    log: true
+    range:
+    - 1.0e-05
+    - 0.001
+  num_epochs:
+    range:
+    - 20
+    - 200
+  weight_decay:
+    log: true
+    range:
+    - 1.0e-05
+    - 0.001
+startups: 10
+total: 100

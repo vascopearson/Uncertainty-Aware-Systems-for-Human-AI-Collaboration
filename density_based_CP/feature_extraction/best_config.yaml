@@ -1,0 +1,9 @@
+- batch_size: 30
+  dropout_rate: 0.05684856269341615
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.0961381465133736e-05
+  ll: 0.10149617493152618
+  num_epochs: 73
+  weight_decay: 0.0003842832751149213

@@ -1,0 +1,919 @@
+- batch_size: 60
+  dropout_rate: 0.4330880728874676
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.0511104188433963e-05
+  ll: 0.10325662046670914
+  num_epochs: 64
+  weight_decay: 1.3066739238053272e-05
+- batch_size: 20
+  dropout_rate: 0.2623782158161189
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.3270677083837777e-05
+  ll: 0.10235519707202911
+  num_epochs: 49
+  weight_decay: 4.059611610484306e-05
+- batch_size: 11
+  dropout_rate: 0.2571172192068058
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 0.00037183641805732076
+  ll: 0.1059824749827385
+  num_epochs: 63
+  weight_decay: 2.5081156860452307e-05
+- batch_size: 30
+  dropout_rate: 0.048836057003191935
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.0004138040112561013
+  ll: 0.11038852483034134
+  num_epochs: 72
+  weight_decay: 4.066563313514796e-05
+- batch_size: 15
+  dropout_rate: 0.2600340105889054
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 0.00021137059440645722
+  ll: 0.1052473708987236
+  num_epochs: 59
+  weight_decay: 4.201672054372529e-05
+- batch_size: 22
+  dropout_rate: 0.0979914312095726
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 0.0006978281265126031
+  ll: 0.11345844715833664
+  num_epochs: 14
+  weight_decay: 1.5030900645056805e-05
+- batch_size: 124
+  dropout_rate: 0.40109849037701983
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.00012172847081122418
+  ll: 0.10312002152204514
+  num_epochs: 16
+  weight_decay: 1.913588048769229e-05
+- batch_size: 13
+  dropout_rate: 0.03702232586704518
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 0.0002870875348195468
+  ll: 0.10692943632602692
+  num_epochs: 42
+  weight_decay: 0.000348771262454593
+- batch_size: 33
+  dropout_rate: 0.31877873567760656
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 4.4706085467784903e-05
+  ll: 0.10224653780460358
+  num_epochs: 90
+  weight_decay: 0.0002878805718308924
+- batch_size: 13
+  dropout_rate: 0.21377050917927481
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 9.718319944817387e-05
+  ll: 0.10351108759641647
+  num_epochs: 12
+  weight_decay: 0.00011103647313054615
+- batch_size: 50
+  dropout_rate: 0.36268850562189936
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 1.028002961790561e-05
+  ll: 0.10351980477571487
+  num_epochs: 99
+  weight_decay: 0.0008691089486124979
+- batch_size: 24
+  dropout_rate: 0.3218563683119118
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.802660924716624e-05
+  ll: 0.10209879279136658
+  num_epochs: 91
+  weight_decay: 0.00013838713864867098
+- batch_size: 38
+  dropout_rate: 0.34514750555971785
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.4428228567737147e-05
+  ll: 0.10204026848077774
+  num_epochs: 100
+  weight_decay: 0.00016513866729785256
+- batch_size: 54
+  dropout_rate: 0.49837469403957724
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.8451107404016995e-05
+  ll: 0.10242554545402527
+  num_epochs: 82
+  weight_decay: 0.00012837505105203761
+- batch_size: 95
+  dropout_rate: 0.1713996441331581
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.494947910831679e-05
+  ll: 0.1019732654094696
+  num_epochs: 100
+  weight_decay: 0.00022486895935208833
+- batch_size: 128
+  dropout_rate: 0.16528983399266292
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 8.992948340360064e-05
+  ll: 0.1021871492266655
+  num_epochs: 100
+  weight_decay: 0.00029752522141641166
+- batch_size: 73
+  dropout_rate: 0.15305567373241188
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 1.9196954263503886e-05
+  ll: 0.10341018438339233
+  num_epochs: 80
+  weight_decay: 0.0005946963811105303
+- batch_size: 75
+  dropout_rate: 0.19247455091722712
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.0001632289915740672
+  ll: 0.1019204780459404
+  num_epochs: 33
+  weight_decay: 7.091337276354437e-05
+- batch_size: 89
+  dropout_rate: 0.13352733706103065
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00018962822290440547
+  ll: 0.10256800800561905
+  num_epochs: 30
+  weight_decay: 8.338488045585669e-05
+- batch_size: 90
+  dropout_rate: 0.20125280361849524
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00015678033480557337
+  ll: 0.10308116674423218
+  num_epochs: 33
+  weight_decay: 8.305055967363206e-05
+- batch_size: 76
+  dropout_rate: 0.10664166781556106
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.0007699636651815968
+  ll: 0.10271391272544861
+  num_epochs: 30
+  weight_decay: 0.00021531350891894905
+- batch_size: 44
+  dropout_rate: 0.30922585557713184
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 6.074854453997594e-05
+  ll: 0.10207247734069824
+  num_epochs: 90
+  weight_decay: 0.00020045535620753498
+- batch_size: 39
+  dropout_rate: 0.21637280559024566
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.3739662416512915e-05
+  ll: 0.10193898528814316
+  num_epochs: 73
+  weight_decay: 5.675340745421175e-05
+- batch_size: 99
+  dropout_rate: 0.20203589334045308
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.11421219419697e-05
+  ll: 0.10281074792146683
+  num_epochs: 49
+  weight_decay: 6.289111532007957e-05
+- batch_size: 65
+  dropout_rate: 0.08083677098544499
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 1.2425816123213201e-05
+  ll: 0.10292882472276688
+  num_epochs: 73
+  weight_decay: 6.0604939048917284e-05
+- batch_size: 103
+  dropout_rate: 0.17596106617717053
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 2.788414883532438e-05
+  ll: 0.10291483253240585
+  num_epochs: 71
+  weight_decay: 2.6578345430158234e-05
+- batch_size: 42
+  dropout_rate: 0.0015052738823521095
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 7.238280455362239e-05
+  ll: 0.10189748555421829
+  num_epochs: 21
+  weight_decay: 0.00043131763041139964
+- batch_size: 41
+  dropout_rate: 0.0028649675640302274
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 8.251685493342961e-05
+  ll: 0.10240354388952255
+  num_epochs: 19
+  weight_decay: 0.0005026136341221209
+- batch_size: 28
+  dropout_rate: 0.2262196351990273
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 7.336550255169195e-05
+  ll: 0.10202565789222717
+  num_epochs: 23
+  weight_decay: 5.986168682951238e-05
+- batch_size: 50
+  dropout_rate: 0.4568904427080709
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00012211623972896383
+  ll: 0.10268974304199219
+  num_epochs: 24
+  weight_decay: 0.000872488295958835
+- batch_size: 60
+  dropout_rate: 0.001692723722911652
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 1.5806474217163697e-05
+  ll: 0.10315614938735962
+  num_epochs: 39
+  weight_decay: 9.010629353563237e-05
+- batch_size: 76
+  dropout_rate: 0.12198848848900645
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.950178337050062e-05
+  ll: 0.1029529869556427
+  num_epochs: 49
+  weight_decay: 0.000441741348349179
+- batch_size: 63
+  dropout_rate: 0.28899896503154754
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.3678221177827497e-05
+  ll: 0.10357481986284256
+  num_epochs: 40
+  weight_decay: 0.00023831679506032386
+- batch_size: 45
+  dropout_rate: 0.23903108972516468
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 4.7824945618609025e-05
+  ll: 0.10225097090005875
+  num_epochs: 65
+  weight_decay: 1.0339401708584628e-05
+- batch_size: 35
+  dropout_rate: 0.06228475764833989
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.8447794479980153e-05
+  ll: 0.10226195305585861
+  num_epochs: 53
+  weight_decay: 2.9264759042526078e-05
+- batch_size: 26
+  dropout_rate: 0.2793644003515996
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00027493010328110567
+  ll: 0.10365445911884308
+  num_epochs: 81
+  weight_decay: 4.454619739403286e-05
+- batch_size: 32
+  dropout_rate: 0.1865947924878396
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 0.00012069272884837948
+  ll: 0.10236243158578873
+  num_epochs: 10
+  weight_decay: 0.00016335800084648348
+- batch_size: 18
+  dropout_rate: 0.14394371127503938
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.0004603946746263082
+  ll: 0.10949733853340149
+  num_epochs: 65
+  weight_decay: 3.412361370171585e-05
+- batch_size: 109
+  dropout_rate: 0.24277466269333386
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 6.567899161454329e-05
+  ll: 0.10333924740552902
+  num_epochs: 23
+  weight_decay: 0.0006542798990058049
+- batch_size: 82
+  dropout_rate: 0.029242779197425038
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 1.8945175823039026e-05
+  ll: 0.10252640396356583
+  num_epochs: 59
+  weight_decay: 5.0546960633794835e-05
+- batch_size: 18
+  dropout_rate: 0.07895189735069658
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 0.0001581481437929362
+  ll: 0.10350138694047928
+  num_epochs: 33
+  weight_decay: 0.0003388237462323042
+- batch_size: 27
+  dropout_rate: 0.2335046327502937
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 7.657215801266468e-05
+  ll: 0.10206353664398193
+  num_epochs: 21
+  weight_decay: 6.452253068892158e-05
+- batch_size: 28
+  dropout_rate: 0.22271072905666495
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.667324053810636e-05
+  ll: 0.10323383659124374
+  num_epochs: 17
+  weight_decay: 0.00010805725285688727
+- batch_size: 22
+  dropout_rate: 0.25398903401198236
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 7.395043336278855e-05
+  ll: 0.10226047039031982
+  num_epochs: 24
+  weight_decay: 7.594162269539256e-05
+- batch_size: 37
+  dropout_rate: 0.28124580728390464
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00010767117966765855
+  ll: 0.10214568674564362
+  num_epochs: 26
+  weight_decay: 1.7813619728532713e-05
+- batch_size: 56
+  dropout_rate: 0.17881914419921843
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 4.76120509986925e-05
+  ll: 0.10249538719654083
+  num_epochs: 44
+  weight_decay: 3.327223777862038e-05
+- batch_size: 31
+  dropout_rate: 0.20994795004129613
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00024271784944544274
+  ll: 0.10258076339960098
+  num_epochs: 94
+  weight_decay: 5.362421743192007e-05
+- batch_size: 10
+  dropout_rate: 0.3734630167668458
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.000155259130048694
+  ll: 0.10254964232444763
+  num_epochs: 15
+  weight_decay: 0.00040719979656732823
+- batch_size: 69
+  dropout_rate: 0.16033168401710457
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.0003426340067948408
+  ll: 0.10361040383577347
+  num_epochs: 37
+  weight_decay: 0.00013315712767224277
+- batch_size: 42
+  dropout_rate: 0.12287052633388154
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 3.275996421506988e-05
+  ll: 0.10296663641929626
+  num_epochs: 29
+  weight_decay: 0.00010599549567255577
+- batch_size: 114
+  dropout_rate: 0.18998124914070683
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.244840263830182e-05
+  ll: 0.10237888991832733
+  num_epochs: 76
+  weight_decay: 2.2299533367516787e-05
+- batch_size: 49
+  dropout_rate: 0.4139257097318631
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 4.922110458421922e-05
+  ll: 0.1022544875741005
+  num_epochs: 87
+  weight_decay: 0.00026863497642514816
+- batch_size: 39
+  dropout_rate: 0.3500746842311228
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.9111914848822386e-05
+  ll: 0.10201790928840637
+  num_epochs: 98
+  weight_decay: 0.00016637524338800408
+- batch_size: 38
+  dropout_rate: 0.3413923899162724
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 6.918664258159203e-05
+  ll: 0.10213051736354828
+  num_epochs: 95
+  weight_decay: 0.0001702291785344904
+- batch_size: 29
+  dropout_rate: 0.2690581480826605
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00010325987768318807
+  ll: 0.10259386152029037
+  num_epochs: 86
+  weight_decay: 7.722429047407946e-05
+- batch_size: 34
+  dropout_rate: 0.3020167072847051
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.326980839481807e-05
+  ll: 0.10204092413187027
+  num_epochs: 96
+  weight_decay: 4.041916677451311e-05
+- batch_size: 24
+  dropout_rate: 0.46527428670890564
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 4.267054801576336e-05
+  ll: 0.10206356644630432
+  num_epochs: 86
+  weight_decay: 0.00017667539824931783
+- batch_size: 47
+  dropout_rate: 0.2234339832941136
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 8.614678070893035e-05
+  ll: 0.1018865704536438
+  num_epochs: 98
+  weight_decay: 0.00012361642604062103
+- batch_size: 46
+  dropout_rate: 0.26060435341882854
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00018327647023431715
+  ll: 0.10373780131340027
+  num_epochs: 98
+  weight_decay: 0.00013830475259046183
+- batch_size: 55
+  dropout_rate: 0.38008840820886114
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 8.727707846280996e-05
+  ll: 0.10288636386394501
+  num_epochs: 91
+  weight_decay: 0.00021576859923795347
+- batch_size: 87
+  dropout_rate: 0.3328436615837301
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.954365763867638e-05
+  ll: 0.1021837368607521
+  num_epochs: 93
+  weight_decay: 0.00012289846582292627
+- batch_size: 40
+  dropout_rate: 0.2239982861754874
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00013007745927372426
+  ll: 0.10208050161600113
+  num_epochs: 100
+  weight_decay: 9.272791409817776e-05
+- batch_size: 48
+  dropout_rate: 0.2093063934220065
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 9.810046235990339e-05
+  ll: 0.10250657796859741
+  num_epochs: 97
+  weight_decay: 0.0007393301195148475
+- batch_size: 96
+  dropout_rate: 0.14002369099998008
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 8.326704382403837e-05
+  ll: 0.10266940295696259
+  num_epochs: 68
+  weight_decay: 7.26726605257334e-05
+- batch_size: 36
+  dropout_rate: 0.16556188326831597
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.688690280439342e-05
+  ll: 0.10196727514266968
+  num_epochs: 77
+  weight_decay: 0.00033532175176665606
+- batch_size: 36
+  dropout_rate: 0.1007481265409419
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.6823963711470567e-05
+  ll: 0.10193846374750137
+  num_epochs: 76
+  weight_decay: 0.00033667714974483504
+- batch_size: 36
+  dropout_rate: 0.10525038425661075
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 1.6418479631553394e-05
+  ll: 0.10257571190595627
+  num_epochs: 76
+  weight_decay: 0.0003397866073481472
+- batch_size: 43
+  dropout_rate: 0.023307345862739137
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 2.7003462359262634e-05
+  ll: 0.10256478935480118
+  num_epochs: 60
+  weight_decay: 0.0004706108017996595
+- batch_size: 60
+  dropout_rate: 0.16665570082535508
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.485868120163336e-05
+  ll: 0.10246911644935608
+  num_epochs: 77
+  weight_decay: 0.0004010379846862383
+- batch_size: 52
+  dropout_rate: 0.19629456313679977
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.5220045838529366e-05
+  ll: 0.10253046452999115
+  num_epochs: 56
+  weight_decay: 0.00028174423024769266
+- batch_size: 34
+  dropout_rate: 0.05082139038635328
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 4.154946905128735e-05
+  ll: 0.10190800577402115
+  num_epochs: 70
+  weight_decay: 0.0005773265850708008
+- batch_size: 33
+  dropout_rate: 0.04118734256102188
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.995565109473773e-05
+  ll: 0.10211449861526489
+  num_epochs: 69
+  weight_decay: 0.00055966595176328
+- batch_size: 30
+  dropout_rate: 0.05684856269341615
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.0961381465133736e-05
+  ll: 0.10149617493152618
+  num_epochs: 73
+  weight_decay: 0.0003842832751149213
+- batch_size: 25
+  dropout_rate: 0.060678522261635545
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.9407375710824565e-05
+  ll: 0.10241866856813431
+  num_epochs: 72
+  weight_decay: 0.0003956057752762198
+- batch_size: 30
+  dropout_rate: 0.021376086451737875
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 1.991242436689619e-05
+  ll: 0.1025250032544136
+  num_epochs: 79
+  weight_decay: 0.0005342348241618227
+- batch_size: 33
+  dropout_rate: 0.08903664642454359
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 1.5936761408941926e-05
+  ll: 0.10285447537899017
+  num_epochs: 84
+  weight_decay: 0.0009653770323352154
+- batch_size: 35
+  dropout_rate: 0.06929746172951261
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 3.2498147452940665e-05
+  ll: 0.1021835133433342
+  num_epochs: 69
+  weight_decay: 0.0006838627848292592
+- batch_size: 41
+  dropout_rate: 0.052064796109919764
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 50
+  learning_rate: 4.2143014832144986e-05
+  ll: 0.10248950868844986
+  num_epochs: 73
+  weight_decay: 0.00031814269762959
+- batch_size: 31
+  dropout_rate: 0.01320043213083727
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 2.1808778528144016e-05
+  ll: 0.10214884579181671
+  num_epochs: 64
+  weight_decay: 0.0003658252820880158
+- batch_size: 23
+  dropout_rate: 0.040369622148631684
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 2.5973872139788502e-05
+  ll: 0.10237335413694382
+  num_epochs: 45
+  weight_decay: 0.00024719063166332673
+- batch_size: 20
+  dropout_rate: 0.12051907909354523
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00014082104863742402
+  ll: 0.1017933264374733
+  num_epochs: 83
+  weight_decay: 0.0006148839636827679
+- batch_size: 13
+  dropout_rate: 0.08915388725050173
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00022243484912296926
+  ll: 0.10225527733564377
+  num_epochs: 74
+  weight_decay: 0.000796387553091002
+- batch_size: 20
+  dropout_rate: 0.12032297139378409
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00011341792487438606
+  ll: 0.10363049060106277
+  num_epochs: 77
+  weight_decay: 0.0006038311129284367
+- batch_size: 44
+  dropout_rate: 0.10848014936805347
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00014977460946944456
+  ll: 0.10243815183639526
+  num_epochs: 84
+  weight_decay: 0.0004638699154931853
+- batch_size: 14
+  dropout_rate: 0.07538749163949061
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00013167337485872854
+  ll: 0.10206367075443268
+  num_epochs: 80
+  weight_decay: 0.0005960569647503496
+- batch_size: 38
+  dropout_rate: 0.15625203099478782
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00019214815982965982
+  ll: 0.1017918512225151
+  num_epochs: 67
+  weight_decay: 0.0004882362918929198
+- batch_size: 46
+  dropout_rate: 0.14913958646541736
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.00019930825192165813
+  ll: 0.10184388607740402
+  num_epochs: 67
+  weight_decay: 0.0005006426583152653
+- batch_size: 16
+  dropout_rate: 0.12266136836719582
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.0001899549692808904
+  ll: 0.10208281129598618
+  num_epochs: 61
+  weight_decay: 0.0004999879121011104
+- batch_size: 57
+  dropout_rate: 0.1446717326525004
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.00029777743005722333
+  ll: 0.10203948616981506
+  num_epochs: 66
+  weight_decay: 0.0006489828758296528
+- batch_size: 20
+  dropout_rate: 0.15483793893990808
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.0001419909245458763
+  ll: 0.10252833366394043
+  num_epochs: 67
+  weight_decay: 0.0004328314520624618
+- batch_size: 52
+  dropout_rate: 0.09725902674652931
+  hidden_layer_sizes:
+  - 128
+  - 128
+  - 20
+  learning_rate: 0.00019048040068983822
+  ll: 0.10228573530912399
+  num_epochs: 56
+  weight_decay: 0.0008022515779818755
+- batch_size: 38
+  dropout_rate: 0.13009333625249367
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.00023189656151964273
+  ll: 0.10244792699813843
+  num_epochs: 71
+  weight_decay: 0.0005336131546670734
+- batch_size: 47
+  dropout_rate: 0.05467381465870633
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.0001704414492346047
+  ll: 0.10307634621858597
+  num_epochs: 63
+  weight_decay: 5.016740834152263e-05
+- batch_size: 41
+  dropout_rate: 0.18130684251249976
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00020547603451580342
+  ll: 0.10250747948884964
+  num_epochs: 53
+  weight_decay: 0.0003876140071973818
+- batch_size: 45
+  dropout_rate: 0.1506049250792082
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 9.43301583436439e-05
+  ll: 0.10250525176525116
+  num_epochs: 74
+  weight_decay: 0.00044227178086717316
+- batch_size: 28
+  dropout_rate: 0.011326400615773195
+  hidden_layer_sizes:
+  - 128
+  - 20
+  learning_rate: 0.0001396098633432014
+  ll: 0.10356221348047256
+  num_epochs: 82
+  weight_decay: 6.780679563887242e-05
+- batch_size: 66
+  dropout_rate: 0.10790250214510724
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.00025587637848634853
+  ll: 0.10265856981277466
+  num_epochs: 70
+  weight_decay: 0.0004820217183343221
+- batch_size: 38
+  dropout_rate: 0.19676142825206108
+  hidden_layer_sizes:
+  - 200
+  - 50
+  learning_rate: 0.00011645759852662696
+  ll: 0.1020428016781807
+  num_epochs: 62
+  weight_decay: 0.0006638883639467955
+- batch_size: 32
+  dropout_rate: 0.24327666886428612
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 0.0006001152303656991
+  ll: 0.10276098549365997
+  num_epochs: 75
+  weight_decay: 0.0002966311789946727
+- batch_size: 26
+  dropout_rate: 0.13154900441038705
+  hidden_layer_sizes:
+  - 128
+  - 50
+  learning_rate: 5.165858416708662e-05
+  ll: 0.10211321711540222
+  num_epochs: 79
+  weight_decay: 0.0007318478164410606

@@ -1,0 +1,8 @@
+- batch_size: 14
+  lambda_gp: 0.006750277604651747
+  learning_rate: 0.000291063591313307
+  num_blocks: 10
+  num_epochs: 24
+  num_hidden: 128
+  val_loss: 0.10512543469667435
+  weight_decay: 0.00015751320499779721

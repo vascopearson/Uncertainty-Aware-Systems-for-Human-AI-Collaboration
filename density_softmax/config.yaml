@@ -1,0 +1,25 @@
+params:
+  batch_size:
+    log: true
+    range:
+    - 10
+    - 128
+  hidden_dim:
+    range:
+    - 64
+    - 256
+  learning_rate:
+    log: true
+    range:
+    - 1.0e-05
+    - 0.001
+  num_coupling_layers:
+    range:
+    - 2
+    - 10
+  num_epochs:
+    range:
+    - 50
+    - 300
+startups: 10
+total: 100

@@ -1,0 +1,51 @@
+init_score: 1.7822249318751255
+params:
+  boosting_type:
+  - dart
+  enable_bundle:
+  - true
+  - false
+  learning_rate:
+    log: false
+    range:
+    - 0.001
+    - 1
+    type: float
+  max_depth:
+    log: false
+    range:
+    - 2
+    - 5
+    type: int
+  min_child_samples:
+    log: false
+    range:
+    - 5
+    - 200
+    type: int
+  n_estimators:
+    log: false
+    range:
+    - 50
+    - 250
+    type: int
+  num_leaves:
+    log: false
+    range:
+    - 100
+    - 1000
+    type: int
+  reg_alpha:
+    log: false
+    range:
+    - 0.001
+    - 2
+    type: float
+  reg_lambda:
+    log: false
+    range:
+    - 0.001
+    - 2
+    type: float
+startups: 200
+total: 300
